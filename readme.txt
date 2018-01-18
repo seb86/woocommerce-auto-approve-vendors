@@ -13,6 +13,10 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 Simply approves product vendors upon registration for new users or those who already have an account.
 
+= Requirements =
+* WooCommerce v3.0.0
+* WooCommerce Product Vendors extension v2.1
+
 == Installation ==
 
 Installing "WooCommerce Auto Approve Vendors" can be done using the following steps:

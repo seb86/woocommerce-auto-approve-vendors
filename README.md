@@ -1,6 +1,10 @@
 # WooCommerce Auto Approve Vendors
 Simply approves product vendors upon registration for new users or those who already have an account.
 
+### Requirements
+* WooCommerce v3.0.0
+* WooCommerce Product Vendors extension v2.1
+
 ### How do I set the user role the vendors will get once approved?
 
 By default the user role will be set to Vendor Admin. If you wish to change it to Vendor Manager then simply use this filter `woocommerce_auto_approved_vendors_role` and change the value to the vendor manager role.
